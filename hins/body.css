@@ -1,0 +1,26 @@
+.a{
+	width:40%;
+	float: left;
+	-webkit-transition:width 2s;
+	transition: width 0.5s;
+}
+.a:hover{
+	width:50%;
+}
+
+.b{
+	width: 40%;
+	float: left;
+	clear: left;
+	-webkit-transition:width 2s;
+	transition: width 0.5s;
+}
+.b:hover{
+	width: 50%;
+}
+dd{
+	font-weight: lighter;
+	color: red;
+	font-family:DFKai-sb;
+}
+
